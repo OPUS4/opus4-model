@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<ruleset name="OPUS 4 coding standard">
+    <rule ref="./vendor/laminas/laminas-coding-standard/src/LaminasCodingStandard/ruleset.xml" />
+    <file>test</file>
+</ruleset>
